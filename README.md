@@ -3,7 +3,7 @@
 ## Project Overview
 This project demonstrates a simple **ETL pipeline** using the following:
 - **Python** for ETL logic
-- **Jupyter**
+- **Jupyter Notebook**
 - **Airflow** and 
 - **OpenWeather API** as the main data source ( https://openweathermap.org/ )
 
