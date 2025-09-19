@@ -21,4 +21,4 @@ This project demonstrates a simple **ETL pipeline** using the following:
 pip install -r requirements.txt
 
 # To run the ETL directly
-python scripts/weather_etl.py
+python scripts/weather_etl.ipynb
