@@ -10,8 +10,8 @@ This project demonstrates a simple **ETL pipeline** using the following:
 ## Project Steps
 1. **Extract** weather data from API ( Focus was on 10 East Coast cities).
 2. **Transform** by:
-   - Adding Fahrenheit temperature, laculation was done
-   - Categorizing the temperature, so its easy to understand (Hot, Warm, Cool)
+   - Adding Fahrenheit temperature
+   - Categorizing the temperature, so it's easy to understand (Hot, Warm, Cool)
    - Categorizing the humidity (High, Medium, Low)
 3. **Load** into a CSV (`data/weather_data.csv`) check the data folder for a sample of what the CSV looks like.
 
